@@ -1,0 +1,4 @@
+from Spin system import get_overlaps_and_convergence_metrics_Fig5.py
+
+
+generate_overlaps_for_database_exact(n_steps=250, use_cat=True)
